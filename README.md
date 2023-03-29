@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/derickongeri?style=social)](https://github.com/derickongeri?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/ongeri_derick?style=social)](https://twitter.com/ongeri_derick)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/derickongeri-20a979145/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/derick-ongeri-91663a194/)
 
 <p align="center">
   <img src="derick.gif" alt="Derick"/>
