@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/derickongeri-20a979145/)
 
 <p align="center">
-  <img src="intro_gif.gif" alt="Derick"/>
+  <img src="Intro_gif.gif" alt="Derick"/>
 </p>
 
 
