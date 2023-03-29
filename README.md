@@ -5,9 +5,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/derickongeri-20a979145/)
 
 <p align="center">
-  <img src="Intro_gif.gif" alt="Derick"/>
+  <img src="GIF_INTRO.gif" alt="Derick"/>
 </p>
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=derickongeri&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derickongeri&hide=go)
